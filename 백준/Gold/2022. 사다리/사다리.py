@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/1722
+# https://www.acmicpc.net/problem/2022
 from sys import stdin
 
 def f(x, y, w):
